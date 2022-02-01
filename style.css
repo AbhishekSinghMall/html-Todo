@@ -1,0 +1,64 @@
+.box1{
+  display: inline-block;
+  border: 2px none #FFE6E8;
+  width:1000px;
+  height: 350px;
+  position: relative;
+  top: 50px;
+  left: 0px;
+  background-color:#FFFFFF;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#myInput{
+  border: 1px solid #c0c0c0;
+  position: relative;
+  top: 30px;
+  left: 0px;
+  height: 30px;
+  width: 750px;
+ background-color: #FFFAFA;
+ border-radius: 5px;
+}
+
+.btn{
+  border: 1px solid black;
+  position: relative;
+  height: 33px;
+  width: 200px;
+  top: 0px;
+  left: 0px;
+  background-color: blue;
+  display: block;
+  margin-left:800px ;
+  margin-right:auto;
+  border-radius: 5px;
+}
+
+.box2{
+display: inline-block;
+border: 2px solid #c0c0c0;
+position: relative;
+width: 1000px;
+height: 280px;
+top: 40px;
+left: 0px;
+background-color: #FFFAFA;
+}
+
+.box3{
+  display: inline-block;
+  border: 1px solid #c0c0c0;
+  position: relative;
+  width: 998px;
+  height: 75px;
+}
+.btn:hover {
+  background-color: #bbb;
+}
+
+.type1{
+  height: 35px;
+}
